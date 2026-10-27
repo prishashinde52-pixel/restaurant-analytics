@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Analytics Lab
+# Restaurant Analytics Lab
 
 An interactive restaurant analytics dashboard built with Python and Streamlit to explore sales performance, understand menu trends, and generate short-term revenue forecasts.
 
@@ -124,6 +124,6 @@ Future versions are intended to explore the use of restaurant-specific sales dat
 
 ## Author
 
-**Prishha Shinde**
+**Prisha Shinde**
 
 Built as an ongoing project exploring Python-based analytics, interactive data visualization, and practical applications of data-driven decision-making.
